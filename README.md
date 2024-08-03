@@ -14,4 +14,4 @@ La documentación utilizada para este proyecto se encuentra en apiDoc
 
 ## Pasos para Ejecutar las Pruebas
 1. **Clonar el repositorio en la computadora**
-2. **Trabajar las pruebas en la aplicación de PyCharm descargando los resquests y pytest**
+2. **Trabajar las pruebas en la aplicación de PyCharm descargando los requests y pytest**
