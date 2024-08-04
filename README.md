@@ -23,6 +23,6 @@ La documentación utilizada para este proyecto se encuentra en apiDoc.
 - **Comandos para realizar las pruebas**:
   pytest
 - **Ruta completa para ejecutar las pruebas**:
-  pytest ~/projects/qa-project-Urban-Grocers-app-es/tests/create_kit_name_kit_test.py
+  pytest ~/projects/qa-project-Urban-Grocers-app-es
 
    
