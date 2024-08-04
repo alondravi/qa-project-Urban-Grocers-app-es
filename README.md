@@ -14,4 +14,15 @@ La documentación utilizada para este proyecto se encuentra en apiDoc.
 
 ## Pasos para ejecutar las pruebas
 1. **Clonar el repositorio en la computadora.**
-2. **Trabajar las pruebas en la aplicación de PyCharm descargando los requests y pytest.**
+2. **Trabajar las pruebas en la aplicación de PyCharm.**
+3. **Descargar pytest:** pip install pytest
+4. **Descargar requests:** pip install requests
+
+- **Ruta del archivo**:
+  ~/projects/qa-project-Urban-Grocers-app-es
+- **Comandos para realizar las pruebas**:
+  pytest
+- **Ruta completa para ejecutar las pruebas**:
+  pytest ~/projects/qa-project-Urban-Grocers-app-es/tests/create_kit_name_kit_test.py
+
+   
